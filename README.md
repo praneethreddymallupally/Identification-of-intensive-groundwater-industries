@@ -1,4 +1,4 @@
-# Estimation-of-intensive-groundwater-industries
+# Identification-of-intensive-groundwater-industries
 
 
 This project aims at identifying the industries consuming the ground water intensively beyond the permissible level.
