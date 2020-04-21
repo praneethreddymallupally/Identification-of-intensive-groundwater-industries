@@ -6,7 +6,7 @@ This project aims at identifying the industries consuming the ground water inten
 
 1.I used leaflet JS library for generating maps and also classified the industries to  high water consumption industries displayed with red color and low water consumption industries displayed as green color in map. 
 
-2.I also included a email alerting system for industries using stmp server. 
+2.I also included a email alerting system for industries using stmp library in PHPmailer library. 
 
 3.Also included a module for predicting the consumption of ground water by a particular industry using Linear regression.
 
